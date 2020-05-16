@@ -1,0 +1,33 @@
+.dd-top
+{
+    border-radius: 40px;
+    border: 1px solid rgb(134, 151, 162);
+    padding: 12px 16px;
+    color: rgb(134, 151, 162);
+    background-color: rgb(26, 33, 42);
+}
+
+.category-item{
+    margin-right:25px;
+}
+.category-item-icon
+{
+    background-color: rgb(26, 33, 42);
+    padding: 15px;
+    border-radius: 20%;
+}
+
+::-webkit-scrollbar{
+    height: 9px;
+    width: 2px;
+    background-color: rgb(35, 42, 51);
+}
+::-webkit-scrollbar-thumb:horizontal{
+    background: rgb(134, 151, 162);
+}
+
+.btn {
+    font-weight: 700;
+    width:150px;
+    border-radius: 30px;
+}
